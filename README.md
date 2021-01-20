@@ -1,3 +1,5 @@
+> This repository is now [hosted on Gitlab](https://gitlab.com/romaricpascal/project-template-node). Please head there if you wish to contribute. Thanks 🙂
+
 Template project for Node
 ===
 
